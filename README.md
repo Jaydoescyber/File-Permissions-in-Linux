@@ -16,7 +16,7 @@ The objective of this project was to enhance system security by properly configu
 
 ## Steps
 
-## Check file and directory details
+Check file and directory details
 This code shows how I used Linux commands to check the current permissions of a directory.
 
 ![image](https://github.com/user-attachments/assets/65704985-0cc5-43a0-89ed-9ddbd1edf3ce)
