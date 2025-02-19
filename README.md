@@ -39,7 +39,7 @@ The following code demonstrates how I completed this task using Linux commands:
 
  Screenshot 2
 
-The first two lines of the screenshot show the commands I entered, and the rest show the output. The chmod command modifies file and directory permissions. The first argument specifies the permission change, and the second names the file or directory. In this example, I removed write permissions for others on project_k.txt. Then, I used ls -la to check the updates.
+The first two lines of the screenshot show the commands I entered, and the rest show the output. The chmod command modifies file and directory permissions. The first argument specifies the permission change, and the second names the file or directory. In this example, I removed write permissions for others on `project_k.txt.` Then, I used `ls -la` to check the updates.
 
 ## Change file permissions on a hidden file
 The research team at my organization archived `project_x.txt` and wants to prevent anyone from having write access. However, the user and group should still have read access.
