@@ -14,6 +14,8 @@ The objective of this project was to enhance system security by properly configu
 - **`ls -la`** for viewing file and directory permissions.
 - **`chmod`** for modifying access rights.
 
+## Steps
+
 ## Check file and directory details
 This code shows how I used Linux commands to check the current permissions of a directory.
 
