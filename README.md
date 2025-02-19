@@ -26,7 +26,7 @@ This code shows how I used Linux commands to check the current permissions of a 
 (The first line in the screenshot shows the command I entered, and the rest show the output. The command lists all files in the projects directory.) 
 
 I used `ls -la` to display a detailed list, including hidden files. The output shows one directory (`drafts`), one hidden file (`.project_x.txt`), and five other project files. The 10-character string in the first column represents each file or folder's permissions.
-## Describe the permissions string
+## Description of the permissions string
 The 10-character string shows who can access a file and their permissions:
 
 ⦁	1st character: Indicates file type. A `d` means it's a directory, while `-` means it's a regular file.
