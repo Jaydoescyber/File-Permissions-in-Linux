@@ -46,7 +46,7 @@ This code shows how I used Linux commands to accomplish this:
 
 The first two lines in the screenshot show the commands I entered, and the rest show the output. I know .project_x.txt is hidden because its name starts with a period (.). In this example, I removed write permissions for the user and group and added read permissions for the group. I did this using u-w to remove write access for the user, g-w to remove it for the group, and g+r to add read access for the group.
 
-##Change directory permissions
+## Change directory permissions
 My organization wants only the researcher2 user to access the drafts directory and its contents. No one else should have execute permissions.
 
 This code shows how I used Linux commands to modify permissions:
